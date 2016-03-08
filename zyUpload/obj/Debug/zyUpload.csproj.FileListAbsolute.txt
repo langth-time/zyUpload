@@ -1,0 +1,10 @@
+C:\Users\Yanis\Downloads\zyUpload\zyUpload\bin\zyUpload.dll
+C:\Users\Yanis\Downloads\zyUpload\zyUpload\bin\zyUpload.pdb
+C:\Users\Yanis\Downloads\zyUpload\zyUpload\obj\Debug\zyUpload.dll
+C:\Users\Yanis\Downloads\zyUpload\zyUpload\obj\Debug\zyUpload.pdb
+C:\Users\Yanis\Downloads\zyUpload\zyUpload\obj\Debug\zyUpload.csprojResolveAssemblyReference.cache
+D:\GifSpace\zyUpload\zyUpload\bin\zyUpload.dll
+D:\GifSpace\zyUpload\zyUpload\bin\zyUpload.pdb
+D:\GifSpace\zyUpload\zyUpload\obj\Debug\zyUpload.csprojResolveAssemblyReference.cache
+D:\GifSpace\zyUpload\zyUpload\obj\Debug\zyUpload.dll
+D:\GifSpace\zyUpload\zyUpload\obj\Debug\zyUpload.pdb
